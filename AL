@@ -22,4 +22,5 @@ while true do task.wait()
 
         checkLockpick(B1, B2, B3);
     end
+
 end
