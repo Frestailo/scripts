@@ -9,3 +9,4 @@ local ATLAS = "https://raw.githubusercontent.com/Chris12089/atlasbss/main/script
 local ZWC = "https://pastebin.com/raw/BkPd3jtD"
 local SCARLET = "https://raw.githubusercontent.com/ScarletLAB/scarlet/main/universal/main.lua"
 local nebulem = "https://nobulem.wtf/loader.lua"
+local PRYC = "https://raw.githubusercontent.com/Qiwikox12/stubrawl/refs/heads/main/DoorsHardcore.txt"
